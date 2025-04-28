@@ -8,4 +8,4 @@ Hi there 👋
 - Adepting at CI/CD and K8s skills
 - 🌱 Apart from working on ML/AI , at present I involve myself in learning **backend and frontend engineering** using javascript. It is still a task in progress
 
-![](https://komarev.com/ghpvc/?username=kazimosiurahman&color=green)
+![](https://komarev.com/ghpvc/?username=kazimosiurahman&color=green&abbreviated=true)
